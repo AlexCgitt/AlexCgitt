@@ -2,7 +2,7 @@
 - 👀 I’m interested in development, finance, sport
 - 🌱 I’m currently learning mathematics, physics, other languages
 - 💞️ Open to work on website development
-- ⚡I have basic knowledge of html, css, js, php, c, c++, python.
+- ⚡I have basic knowledge of html, css, js, php, c, c++, python, r.
 - 📫 How to reach me : betaa1452@gmail.com
 
 <!---
